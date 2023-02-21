@@ -57,6 +57,14 @@ body {
   letter-spacing: -.05rem;
 }
 
+
+/*Imagenes finales*/
+
+.feature_image{
+  width: auto;
+  height: 500px;
+}
+
 /* rtl:end:remove */
 
 /* RESPONSIVE CSS
