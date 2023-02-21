@@ -1,15 +1,17 @@
 .prueba{
   margin: 0;
   padding: 0;
-  height: 100vh;
+  height: 70em;
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #ffffff;
+  background: #fcfcfc;
   
 }
 
-#KeyShotXR{
-  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.2);
-  border-radius: 50px;
+
+
+@media (orientation: landscape) {
+  
+
 }
